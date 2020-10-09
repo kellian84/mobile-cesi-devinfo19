@@ -126,7 +126,6 @@ import {
 
 declare const global: { HermesInternal: null | {} };
 const adUnitId = TestIds.REWARDED;
-
 const rewarded = RewardedAd.createForAdRequest(adUnitId, {
   requestNonPersonalizedAdsOnly: true,
   keywords: ['fashion', 'clothing'],
