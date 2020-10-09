@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "recompense_app",
+=======
+<<<<<<< HEAD
+  "name": "app",
+=======
+  "name": "recompense_app",
+>>>>>>> Version final
+>>>>>>> Version final
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,8 +18,16 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@react-native-firebase/admob": "^7.6.8",
     "@react-native-firebase/app": "^8.4.5",
+=======
+<<<<<<< HEAD
+=======
+    "@react-native-firebase/admob": "^7.6.8",
+    "@react-native-firebase/app": "^8.4.5",
+>>>>>>> Version final
+>>>>>>> Version final
     "react": "16.13.1",
     "react-native": "0.63.3"
   },

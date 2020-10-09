@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 rootProject.name = 'recompense_app'
+=======
+<<<<<<< HEAD
+rootProject.name = 'app'
+=======
+rootProject.name = 'recompense_app'
+>>>>>>> Version final
+>>>>>>> Version final
 apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
 include ':app'

@@ -1,5 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
   package="com.recompense_app">
+=======
+<<<<<<< HEAD
+  package="com.app">
+=======
+  package="com.recompense_app">
+>>>>>>> Version final
+>>>>>>> Version final
 
     <uses-permission android:name="android.permission.INTERNET" />
 

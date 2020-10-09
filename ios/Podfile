@@ -3,12 +3,28 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
+<<<<<<< HEAD
 target 'recompense_app' do
+=======
+<<<<<<< HEAD
+target 'app' do
+=======
+target 'recompense_app' do
+>>>>>>> Version final
+>>>>>>> Version final
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
 
+<<<<<<< HEAD
   target 'recompense_appTests' do
+=======
+<<<<<<< HEAD
+  target 'appTests' do
+=======
+  target 'recompense_appTests' do
+>>>>>>> Version final
+>>>>>>> Version final
     inherit! :complete
     # Pods for testing
   end
@@ -23,10 +39,24 @@ target 'recompense_app' do
   end
 end
 
+<<<<<<< HEAD
 target 'recompense_app-tvOS' do
   # Pods for recompense_app-tvOS
 
   target 'recompense_app-tvOSTests' do
+=======
+<<<<<<< HEAD
+target 'app-tvOS' do
+  # Pods for app-tvOS
+
+  target 'app-tvOSTests' do
+=======
+target 'recompense_app-tvOS' do
+  # Pods for recompense_app-tvOS
+
+  target 'recompense_app-tvOSTests' do
+>>>>>>> Version final
+>>>>>>> Version final
     inherit! :search_paths
     # Pods for testing
   end

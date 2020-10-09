@@ -1,3 +1,11 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">recompense_app</string>
+=======
+<<<<<<< HEAD
+    <string name="app_name">app</string>
+=======
+    <string name="app_name">recompense_app</string>
+>>>>>>> Version final
+>>>>>>> Version final
 </resources>

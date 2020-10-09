@@ -129,7 +129,15 @@ android {
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.recompense_app"
+=======
+<<<<<<< HEAD
+        applicationId "com.app"
+=======
+        applicationId "com.recompense_app"
+>>>>>>> Version final
+>>>>>>> Version final
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
