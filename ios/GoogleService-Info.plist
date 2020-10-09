@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>645583758067-8kott9622mgh25qnpglugqgm52nlud87.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.645583758067-8kott9622mgh25qnpglugqgm52nlud87</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_5jWmTRHPT3N3UNZ9f7h0fiq8YdSWsUg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>645583758067</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.blog-app</string>
+	<key>PROJECT_ID</key>
+	<string>blogapp-75ec4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blogapp-75ec4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:645583758067:ios:65057c8fcbe564635c4d86</string>
+	<key>DATABASE_URL</key>
+	<string>https://blogapp-75ec4.firebaseio.com</string>
+</dict>
+</plist>
